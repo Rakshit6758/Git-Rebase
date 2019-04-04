@@ -5,6 +5,6 @@ int main()
 
 	cout<<"rakshit"; // prints rakshit
 	cout<<"rajat";  // prints rajat 
-	return 0;
+	return 0; // return 
 }
 
