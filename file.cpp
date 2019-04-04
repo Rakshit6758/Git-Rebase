@@ -4,7 +4,8 @@ int main()
 {      cout<<"hello";
 
 	cout<<"rakshit"; // prints rakshit
-	cout<<"rajat";  // prints rajat 
+	cout<<"rajat";  // prints rajat     // hello
+
 	return 0; // return 
 }
 
